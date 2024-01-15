@@ -6,4 +6,4 @@ string methods,
 arthimetic operations and list operations.
 For more explanation click on this video link: paste video link here
 
-Name: Navasai Kumar Reddy Gangireddy Id: 700740307.
+Name: Sai Ram Uppalapati Id: 700740307.
